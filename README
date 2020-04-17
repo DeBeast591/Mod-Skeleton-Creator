@@ -1,0 +1,23 @@
+Mod Skeleton Creator
+Made by DeBeast591
+Please leave credit to me if you use my code
+Enjoy!
+
+The Mod Skeleton Creator is a simple Python 3 Tkinter app that makes a skeleton for a tModLoader mod.
+
+RUNNING:
+1. Download Python 3.x
+2. Download the Tkinter module (Linux: sudo apt install python3-tk)
+3. Go to where this was downloaded (Open the Terminal/Command Line) (Linux+Mac: cd ~/Downloads/ModSkeletonCreator/   Windows: cd C:\path\to\where\you\downloaded\this)
+4. Run (python3 main.py)
+
+INFO:
+- If the mod already exists in this folder then it will make an error.
+
+CHANGELOG:
+VERSION 0.1:
+  - Made this...
+
+PLANS:
+  - Commands that change dependent on your OS. Ie. Version 0.1 - Running a Linux command on Windows and making error, Version 0.2 - Running a Windows command on Windows and working
+  - Make the GUI look betters

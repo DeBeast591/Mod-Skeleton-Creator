@@ -1,0 +1,3 @@
+displayName = {MOD NAME}
+author = {AUTHOR}
+version = 0.1
